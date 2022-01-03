@@ -28,7 +28,7 @@ const App = ( props ) => {
 
   const notesToShow = showAll
     ? notes
-    : notes.filter(note => note.important === true)
+    : notes.filter(note => note.important)
 
   return (
     <div>
