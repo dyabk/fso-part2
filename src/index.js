@@ -12,7 +12,7 @@ const notes = [
     id: 2,
     content: 'Browser can execute only JavaScript',
     date: '2019-05-30T18:39:34.091Z',
-    important: true
+    important: false
   },
   {
     id: 3,
